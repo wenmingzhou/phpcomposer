@@ -1,0 +1,13 @@
+{
+    "name": "phpcomposerwenmingzhou/phpcomposer",
+    "description": "learning composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "524797132",
+            "email": "524797132@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
